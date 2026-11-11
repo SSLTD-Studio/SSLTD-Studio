@@ -34,8 +34,8 @@
 ► *The first project of SS LTD. is out since 2026/11/01 at 12:00 AM.*  
   *(Le premier projet de SS LTD. est sorti le 01/11/2026 à 00:00.)*
 
-► *Discover the demonstration version now <a href="https://ss-ltd.itch.io/collision-demo" target="_self" title="Official Page of C❤️LLISION [DÉMO.]™ (New Tab)">here</a>.*</br>
-  *(Découvrez la version démonstrative dès maintenant <a href="https://ss-ltd.itch.io/collision-demo" target="_self" title="Page Officielle de C❤️LLISION [DÉMO.]™ (Nouvel Onglet)">ici</a>.)*
+► *Discover the demonstration version now <a href="https://ss-ltd.itch.io/collision-demo" target="_blank" title="Official Page of C❤️LLISION [DÉMO.]™ (New Tab)">here</a>.*</br>
+  *(Découvrez la version démonstrative dès maintenant <a href="https://ss-ltd.itch.io/collision-demo" target="_blank" title="Page Officielle de C❤️LLISION [DÉMO.]™ (Nouvel Onglet)">ici</a>.)*
 
 <!-- -------------------------------------------------- -->
 
