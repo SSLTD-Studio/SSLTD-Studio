@@ -4,7 +4,11 @@
 <img src="./logo.png" alt="SS LTD. Official Logo" width="350">
 -->
 
-# SS LTD.
+
+<a href="https://ss-ltd.itch.io/">
+  <img src="./BanniereGraphique_SS_LTD.gif" alt="SS LTD., The Quality of Excellence." width="600">
+</a>
+
 ### *SS LTD., The Quality of Excellence.*
 
 ***Welcome to the official GitHub® page of SS LTD.***  
